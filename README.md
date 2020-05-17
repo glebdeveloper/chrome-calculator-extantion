@@ -6,7 +6,7 @@ Written in JavaScript, HTML and CSS
 ## Screensot
 ![Image](https://i.postimg.cc/5tr0YB30/Screenshot-from-2020-05-16-18-32-09.png)
 ## How to use
-1.  Go to extantion list (chrome://extensions/)
+1.  Go to extantion list ([chrome://extensions/](chrome://extensions/))
 2.  Enable "Developer mode"
 3.  Press "Load unpacked"
 4.  Select folder with extantion files (manifest, js, css, html)
