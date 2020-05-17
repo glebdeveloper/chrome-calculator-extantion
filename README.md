@@ -11,10 +11,9 @@ Written in JavaScript, HTML and CSS
 3.  Press "Load unpacked"
 4.  Select folder with extantion files (manifest, js, css, html)
 ## YouTube
-[![Video about the extantion](https://img.youtube.com/vi/b-BLS0PoNy0/0.jpg)](https://www.youtube.com/watch?v=b-BLS0PoNy0 "Video about the extantion")
+([https://youtu.be/euIpfd20WuU]("Video about the extantion"))
 ### Author
 YouTube: https://www.youtube.com/channel/UCgLPiCz67lGdpAi6EY_hxYg <br>
 Instagram: https://www.instagram.com/gleb_developer/ <br>
 Telegram (for messages): https://t.me/hlebr <br>
 Telegram chanel: https://t.me/gleb_developer <br>
-
