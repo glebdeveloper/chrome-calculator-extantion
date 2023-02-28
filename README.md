@@ -1,5 +1,7 @@
 # chrome-calculator-extantion
 ## Description
+In chrome webstore:
+https://chrome.google.com/webstore/detail/browser-calculator/apkbemdljpgipmmkheighldnogighhhd
 It's a code of calculator extantion for Google Chrome browser.
 Calc without clothing and changing tabs.<br>
 Written in JavaScript, HTML and CSS
